@@ -14,7 +14,7 @@
     "lint": "TIMING=1 eslint . --fix"
   },
   "dependencies": {
-    "@vercel/node": "^3.0.27",
+    "@vercel/node": "^3.1.5",
     "@zenlink-interface/chain": "workspace:*",
     "@zenlink-interface/currency": "workspace:*",
     "@zenlink-interface/smart-router": "workspace:*",
@@ -23,7 +23,7 @@
     "ethers": "^5.7.2",
     "fast-json-stable-stringify": "^2.1.0",
     "ioredis": "^5.4.1",
-    "viem": "2.9.25",
+    "viem": "2.10.9",
     "zod": "^3.22.2"
   },
   "devDependencies": {
